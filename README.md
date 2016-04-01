@@ -7,7 +7,7 @@ Provide simple demo of Mapkit for tvOS apps (Apple TV).
 
 #How to use
 
-Step 1 : Entey keyword and Search
+Step 1 : Enter keyword and Search
 
 Step 2 : Select two POI (Point of Interest) in TableView
 
